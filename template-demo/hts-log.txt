@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Sep 2022 10:00:55 at http://demo.foxthemes.net/socialitev2.2/feed-layout-2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://demo.foxthemes.net/socialitev2.2/feed-layout-2.html -O1 "C:\My Web Sites\html css social" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:04:19	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/page-setting.html (from demo.foxthemes.net/socialitev2.2/feed-layout-2.html)
+10:07:47	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/trending.html (from demo.foxthemes.net/socialitev2.2/form-login.html)
+10:07:52	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/%40tag-dev.html (from demo.foxthemes.net/socialitev2.2/forums.html)
+10:07:52	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/group-feed.html (from demo.foxthemes.net/socialitev2.2/pages-setting2.html)
+10:10:40	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/grid (from demo.foxthemes.net/socialitev2.2/development-components.html)
+10:10:40	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/card (from demo.foxthemes.net/socialitev2.2/development-components.html)
+10:10:40	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/pages-terms.html (from demo.foxthemes.net/socialitev2.2/form-register.html)
+10:10:40	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/assets/images/blog/img-5.jpg (from demo.foxthemes.net/socialitev2.2/job-details.html)
+10:10:40	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/$ (from demo.foxthemes.net/socialitev2.2/timeline-fundraiser.html)
+10:10:40	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/assets/images/logo-light.png (from demo.foxthemes.net/socialitev2.2/index.html)
+10:10:42	Error: 	"Not Found" (404) at link demo.foxthemes.net/socialitev2.2/assets/js/simplebar.min.js (from demo.foxthemes.net/socialitev2.2/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 47 seconds : 216 links scanned, 204 files written (23196111 bytes overall) [14799112 bytes received at 25211 bytes/sec], 10489590 bytes transferred using HTTP compression in 77 files, ratio 18%, 1.8 requests per connection
+(11 errors, 0 warnings, 0 messages)
